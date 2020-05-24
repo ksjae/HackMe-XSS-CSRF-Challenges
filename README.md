@@ -2,11 +2,7 @@
 
 These challenges are set in a Text-Based 'MM'ORPG Game based off Mccode Lite Game Engine (GPL)
 
-Deploy to your own Heroku instance with this button below, then complete the challenges!
-
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
-
-*NOTE - if you get an error while deploying, wait 60 seconds and try again. The phantomjs buildpack used in this deploy fails intermittently on build when heroku has trouble establishing a connection to bitbucket, but it's always worked for me after a couple tries.
+**USES DEPRECATED PHP5 MYSQL EXTENSION. Will be fixed when I have the time for it.** Meanwhile use on computer with PHP5?
 
 
 Challenges:
